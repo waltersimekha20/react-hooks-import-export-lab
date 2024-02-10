@@ -1,8 +1,7 @@
 import React from "react";
-import NavBar  from "./NavBar";
-import Home from "./Home";
-import About from "./About";
-
+import About from "./About.js"
+import Home  from "./Home.js";
+import NavBar from "./NavBar.js";
 
 function App() {
   return (
